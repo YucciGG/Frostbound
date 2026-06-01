@@ -4,7 +4,7 @@
 ## Introduction to Frostbound
 Frostbound is a Vanilla+ modlist for Skyrim, focused on improving and expanding the game in a way that preserves the original vision.
 
-Nexusmods: [Frostborn](https://www.nexusmods.com/skyrimspecialedition/mods/181414)
+Nexusmods: [Frostbound](https://www.nexusmods.com/skyrimspecialedition/mods/181414)
 
 ## Requirements
 
